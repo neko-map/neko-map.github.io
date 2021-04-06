@@ -3,8 +3,5 @@ description: Track and Care for Cats on the UH Manoa Campus
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-tactile
-github:
-  is_project_page: true
-  repository_url: https://github.com/neko-map/neko-map.github.io
 gems:
   - jekyll-mentions
