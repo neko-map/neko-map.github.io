@@ -27,22 +27,13 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/landing-page.png) LANDING PAGE NEEDED. IMAGE WILL BE ADDED UPON DEVELOPMENT.
 
-### Index pages (Projects, Profiles, Interests)
+### Stray Cats pages 
 
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
+Neko Map provides a public pages that present currently registered stray cats.
 
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
-
-![](images/profiles-page.png) PROFILE PAGE NEEDED. IMAGE WILL BE ADDED UPON DEVELOPMENT
-
-The Projects page shows all of the currently defined Projects and their associated Profiles and Interests:
+The Stray Cats page shows all of the currently registered stray cats and their associated Profiles:
 
 ![](images/projects-page.png)
-
-Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
-
-![](images/interests-page.png)
-
 
 ### Sign in and sign up
 
@@ -62,10 +53,9 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 ### Register New Stray page
 
-Once you are logged in, you can define new projects with the Add Project page:
+Once you are logged in, you can petition for a new cat profile through the Register New Stray page:
 
 ![](images/add-project-page.png)
-
 
 ### Filter page
 
@@ -75,4 +65,4 @@ The Filter page provides the ability to query the database and display the resul
 
 ## Community Feedback
 
-We are interested in your experience using Bowfolio!  If you would like, please take a couple of minutes to fill out the [Bowfolios Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6). It contains only five short questions and will help us understand how to improve the system.
+FEEDBACK FORM NOT YET AVALIBLE
