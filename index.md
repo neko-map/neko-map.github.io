@@ -2,7 +2,6 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
 
 ## Overview
 
