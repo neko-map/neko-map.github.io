@@ -19,13 +19,13 @@ Neko Map is an application that allows students share, track, and create profile
 
 ## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides a walkthrough of the Neko Map user interface and its capabilities.
 
 ### Landing Page
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+![](images/landing-page.png) LANDING PAGE NEEDED. IMAGE WILL BE ADDED UPON DEVELOPMENT.
 
 ### Index pages (Projects, Profiles, Interests)
 
@@ -33,7 +33,7 @@ Bowfolios provides three public pages that present the contents of the database 
 
 The Profiles page shows all the current defined profiles and their associated Projects and Interests:
 
-![](images/profiles-page.png)
+![](images/profiles-page.png) PROFILE PAGE NEEDED. IMAGE WILL BE ADDED UPON DEVELOPMENT
 
 The Projects page shows all of the currently defined Projects and their associated Profiles and Interests:
 
