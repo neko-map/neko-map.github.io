@@ -1,4 +1,4 @@
-## Neko Map
+## Table of contents
 
 * [Overview](#overview)
 * [Deployment](#deployment)
