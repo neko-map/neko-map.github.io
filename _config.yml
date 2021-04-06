@@ -2,6 +2,6 @@ title: Neko Map
 description: Track and Care for Cats on the UH Manoa Campus 
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
 gems:
   - jekyll-mentions
