@@ -57,12 +57,9 @@ Once you are logged in, you can petition for a new cat profile through the Regis
 
 ![](images/add-project-page.png)
 
-### Filter page
 
-The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Profiles that match one or more of the specified Interest(s).
+### Volunteer page
 
-![](images/filter-page.png)
+If you would like to care of a stray you can sign up to on the Volunteer page:
 
-## Community Feedback
-
-FEEDBACK FORM NOT YET AVALIBLE
+![](images/add-project-page.png)
