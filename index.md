@@ -1,7 +1,6 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 
@@ -17,10 +16,6 @@ Neko Map is an application that allows students share, track, and create profile
 * Map-based location guide
 * Reports on population, illnesses, feedings, etc.
 * Emergency notification info
-
-## Deployment
-
-A live deployment of BowFolios is available at [https://bowfolios.org](https://bowfolios.org).
 
 ## User Guide
 
