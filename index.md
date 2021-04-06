@@ -26,13 +26,17 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/landing-page.png)
 
-### Stray Cats pages 
+### Stray Cats page
 
 Neko Map provides a public pages that present currently registered stray cats.
 
 The Stray Cats page shows all of the currently registered stray cats and their associated Profiles:
 
 ![](images/projects-page.png)
+
+### Cat Profile page
+
+Cat Profile pages provide images on the stray cat, a link to a volunteer form, and a public feed to provide updates about the cat (Last seen location, new illnesses, new pictures, etc.)
 
 ### Sign in and sign up
 
