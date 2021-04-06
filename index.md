@@ -7,7 +7,7 @@
 
 ## Overview
 
-Neko Map is an application that allows students share, track stray, and create profiles cats on campus. Students an upload any information known about them such as name, gender, age range, if any illness is visibly present, and who feeds them/if they’ve been fed recently. The application will also implment various features to such as: 
+Neko Map is an application that allows students share, track, and create profiles for stray cats on campus. Students an upload any information known about them such as name, gender, age range, if any illness is visibly present, and who feeds them/if they’ve been fed recently. The application will also implment various features to such as: 
 
 * Cat name, gender, pictures, age, location
 * Illnesses
