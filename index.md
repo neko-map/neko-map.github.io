@@ -24,7 +24,7 @@ This section provides a walkthrough of the Neko Map user interface and its capab
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+![](images/landing-page-mockup.png)
 
 ### Stray Cats page
 
@@ -32,37 +32,35 @@ Neko Map provides a public pages that present currently registered stray cats.
 
 The Stray Cats page shows all of the currently registered stray cats and their associated Profiles:
 
-![](images/projects-page.png)
-
 ### Cat Profile page
 
 Cat Profile pages provide images on the stray cat, a link to a volunteer form, and a public feed to provide updates about the cat (Last seen location, new illnesses, new pictures, etc.)
+
+![](images/profile-mockup.png)
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/signin-page.png)
+![](images/signin-mockup.png)
 
-Alternatively, you can select "Sign up" to go to the following page and register as a new user:
-
-![](images/signup-page.png)
+Alternatively, you can select "Sign up" and register as a new user.
 
 ### Home page
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
 
-![](images/home-page.png)
+![](images/landing-page-mockup.png)
 
 ### Register New Stray page
 
 Once you are logged in, you can petition for a new cat profile through the Register New Stray page:
 
-![](images/add-project-page.png)
+![](images/register-form-mockup.png)
 
 
 ### Volunteer page
 
 If you would like to care of a stray you can sign up to on the Volunteer page:
 
-![](images/add-project-page.png)
+![](images/volunteer-form-mockup.png)
