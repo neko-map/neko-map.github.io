@@ -3,5 +3,7 @@ description: Track and Care for Cats on the UH Manoa Campus
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-slate
+github:
+  is_project_page: false
 gems:
   - jekyll-mentions
