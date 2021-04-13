@@ -32,6 +32,8 @@ Neko Map provides a public pages that present currently registered stray cats.
 
 The Stray Cats page shows all of the currently registered stray cats and their associated Profiles:
 
+![](images/cats-page-mockup.png)
+
 ### Cat Profile page
 
 Cat Profile pages provide images on the stray cat, a link to a volunteer form, and a public feed to provide updates about the cat (Last seen location, new illnesses, new pictures, etc.)
