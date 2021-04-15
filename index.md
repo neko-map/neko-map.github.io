@@ -24,7 +24,7 @@ This section provides a walkthrough of the Neko Map user interface and its capab
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page-mockup.png)
+![](images/neko-map-landing-deployed.jpg)
 
 ### Stray Cats page
 
@@ -52,7 +52,7 @@ Alternatively, you can select "Sign up" and register as a new user.
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
 
-![](images/landing-page-mockup.png)
+![](images/neko-map-landing-deployed.jpg)
 
 ### Register New Stray page
 
@@ -66,3 +66,12 @@ Once you are logged in, you can petition for a new cat profile through the Regis
 If you would like to care of a stray you can sign up to on the Volunteer page:
 
 ![](images/volunteer-form-mockup.png)
+
+
+### Deployment
+
+[Website Link](http://143.110.153.74/#/)
+
+[M1 Project Board](https://github.com/neko-map/neko-map/projects/2)
+
+[M2 Project Board](https://github.com/neko-map/neko-map/projects/3)
