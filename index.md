@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Deployment](#deployment)
 
 ## Overview
 
@@ -68,7 +69,7 @@ If you would like to care of a stray you can sign up to on the Volunteer page:
 ![](images/volunteer-form-mockup.png)
 
 
-### Deployment
+## Deployment
 
 [Website Link](http://143.110.153.74/#/)
 
