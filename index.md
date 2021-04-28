@@ -3,7 +3,7 @@
 * [Overview](#overview)
 * [User Guide](#User-Guide)
 * [Deployment](#deployment)
-* [Developers Guide](#Developers-guide)
+* [Developers Guide](#Developers-Guide)
 
 ## Overview
 
@@ -18,7 +18,7 @@ Neko Map is an application that allows students share, track, and create profile
 * Reports on population, illnesses, feedings, etc.
 * Emergency notification info
 
-## User Guide
+## User-Guide
 
 This section provides a walkthrough of the Neko Map user interface and its capabilities.
 
@@ -77,7 +77,7 @@ If you would like to care of a stray you can sign up to on the Volunteer page:
 
 [M3 Project Board](https://github.com/neko-map/neko-map/projects/4)
 
-# Developers Guide
+# Developers-Guide
 
 ## Installation
 
