@@ -66,6 +66,12 @@ If you would like to care of a stray you can sign up to on the Volunteer page:
 
 ![](images/signup.png)
 
+### Volunteer Admin Page
+
+Page for admins to be able to contact any users who filled out the volunteer form.
+
+![](images/adminpage.jpg)
+
 
 ## Deployment
 
