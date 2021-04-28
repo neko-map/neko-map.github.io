@@ -1,6 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [User Guide](#User-Guide)
 * [Deployment](#deployment)
 * [Developers Guide](#Developers-guide)
 
