@@ -1,4 +1,4 @@
-name: ci-neko-map.github.io
+name: ci-neko-map-app
 
 on:
   push:
