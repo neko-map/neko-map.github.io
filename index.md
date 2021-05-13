@@ -34,7 +34,7 @@ This section provides a walkthrough of the Neko Map user interface and its capab
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing.png)
+![](images/landing.PNG)
 
 ### Stray Cats page
 
