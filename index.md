@@ -26,6 +26,8 @@ Neko Map is an application that allows students share, track, and create profile
 
 3rd Participant - "I really like the idea of this app! It's cute and effective, especially with how many cats are on campus. No complaints, just wishing it were real! The forms include the necessary information. Maybe the user profiles should have been available to everyone? In case someone needs to contact the person that last fed the cat."
 
+4th Participant - "Cool website and functions for the most part. Found some links that did not take the user to the right destination."
+
 ## User-Guide
 
 This section provides a walkthrough of the Neko Map user interface and its capabilities.
