@@ -292,6 +292,8 @@ The [.gitignore](https://github.com/ics-software-engineering/meteor-application-
 
 ### Quality Assurance
 
+![ci-badge](https://github.com/neko-map/neko-map-app/workflows/ci-neko-map-app/badge.svg)
+
 #### ESLint
 
 The application includes a [.eslintrc](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
