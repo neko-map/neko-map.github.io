@@ -12,11 +12,8 @@ Neko Map is an application that allows students share, track, and create profile
 * Cat name, gender, pictures, age, location
 * Illnesses
 * Feeding volunteers
-* Adoption/vet pickup
-* Kittens notification
 * Map-based location guide
 * Reports on population, illnesses, feedings, etc.
-* Emergency notification info
 
 ## Community Feedback
 
