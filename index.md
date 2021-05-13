@@ -69,14 +69,14 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 Once you are logged in, you can petition for a new cat profile through the Register New Stray page:
 
-![](images/registercat.png)
+![](images/registercat.PNG)
 
 
 ### Volunteer page
 
 If you would like to care of a stray you can sign up to on the Volunteer page:
 
-![](images/volunteersingup.png)
+![](images/volunteersignup.PNG)
 
 ### Volunteer Admin Page
 
